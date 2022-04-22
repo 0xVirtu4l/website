@@ -1,0 +1,163 @@
+body
+{
+   margin: 0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+}
+h1
+{
+  color: #fad365;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size:5.625rem;
+  margin: 50px auto 0 auto;
+}
+h2 
+{
+  color: #fad365;
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  font-weight:normal;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+h3 
+{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+p 
+{
+  color:white;
+}
+a
+{
+  color:#66BFBF;
+}
+a:hover
+{
+  color:#f5d361;
+}
+.top-container
+{
+  background-color: #242831;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container
+{
+  background-color:#232831;
+  padding-top: 100px;
+}
+.contact-me
+{
+  background-color:#242831;
+}
+.bottom-container
+{
+  background-color:#121418;
+  padding: 50px 0 20px;
+}
+.contact-me
+{
+  padding: 1%;
+}
+.skill-row-1
+{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height:2;
+  padding-bottom:50px;
+}
+.skill-row-2
+{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height:2;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 30rem;
+}
+.top-cloud
+{
+  position: absolute;
+  right:30rem;
+  top:50px;
+}
+.profile-photo
+{
+  width:200px;
+  height:200px;
+
+}
+.mountain
+{
+  width:40rem;
+}
+.skills-Image-1
+{
+  float: left;
+  width:35%;
+  padding-right: 30px;
+}
+.skills-Image-2
+{
+  float: right;
+  width:30%;
+  padding-right: 30px;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: darkgrey;
+  border-width: 13px;
+  width: 10%;
+  margin:auto auto 0 auto;
+}
+
+.btn {
+  -webkit-border-radius: 24;
+  -moz-border-radius: 24;
+  border-radius: 8px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  background: #f5d361;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absoulte;
+  bottom: 100px;
+}
+
+.btn:hover {
+  background: #38999e;
+  text-decoration: none;
+}
+.copyright
+{
+  font-size: 0.75em;
+  padding: 1px 0;
+}
+.footer-link
+{
+  padding: 0 15px 0 15px;
+}
+.contact-me-par
+{
+  padding-bottom: 20px;
+}
+.dynamic-text
+{
+  color: #fad365;
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  font-weight:normal;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
